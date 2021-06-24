@@ -18,5 +18,8 @@
     <ClCompile Include="..\..\..\..\Downloads\CPlusPlus20ForProgrammers\examples\ch01\GuessNumber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="welcome_fig02_01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
