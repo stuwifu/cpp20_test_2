@@ -17,3 +17,5 @@ I created an ec2 image of debian and attempted to upgrade the gnu compiler to 10
 however I was not able to complete the task. My version of gcc in Debian buster is 8.3.
 For the docker desktop I pulled down a gcc image.
   I did not like that there was no tab completion in the docker image.
+
+Why the fuck does my graph not reflect my work? I pushed to main, This gamification is fucking my head up!
